@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE rdf:RDF [
+        <!ENTITY owl "http://www.w3.org/2002/07/owl#">
+	 <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	 <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	 <!ENTITY foaf 'http://xmlns.com/foaf/0.1/'>
+	 <!ENTITY wot 'http://xmlns.com/wot/0.1/'>
+	 <!ENTITY dc 'http://purl.org/dc/elements/1.1/'>
+]>
+<rdf:RDF
+      xmlns:rdf="&rdf;"
+      xmlns:rdfs="&rdfs;"
+      xmlns:foaf="&foaf;"
+      xmlns:admin="http://webns.net/mvcb/"
+	  xmlns:dc="&dc;">
+<foaf:PersonalProfileDocument rdf:about="">
+  <dc:title>FOAF for Jie Gao</dc:title>
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:j.gao@sheffield.ac.uk"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+	<foaf:name>Jie Gao</foaf:name>
+	<foaf:title>Mr</foaf:title>
+	<foaf:givenname>Jie</foaf:givenname>
+	<foaf:family_name>Gao</foaf:family_name>
+	<foaf:nick>Jerry</foaf:nick>
+	<foaf:mbox_sha1sum>8eeb5e4a5c62dbb5d57a5eb2b1d94f2935a0eb0a</foaf:mbox_sha1sum>
+	<foaf:homepage rdf:resource="http://www.dcs.shef.ac.uk/~jieg"/>
+	<foaf:account rdf:resource="http://twitter.com/jerrygaoDextrys"/>
+	<foaf:depiction rdf:resource="https://lh3.googleusercontent.com/-Upjd8NC8lhs/UU3RvVzENwI/AAAAAAAAAsE/UPRbZuojI9E/w105-h140-p/DSCN0776.JPG"/>
+	<foaf:phone rdf:resource="tel:+44-(0)114-222-1876-"/>
+	<foaf:workplaceHomepage rdf:resource="http://www.dcs.shef.ac.uk/~jieg"/>
+	<foaf:workInfoHomepage rdf:resource="I work as a research assistant in University of Sheffield"/>
+	<foaf:schoolHomepage rdf:resource="www.sheffield.ac.uk"/>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:name>Stuart Wrigley</foaf:name>
+			<foaf:title>Dr</foaf:title>
+			<foaf:givenname>Stuart</foaf:givenname>
+			<foaf:family_name>Wrigley</foaf:family_name>
+			<foaf:gender>male</foaf:gender>
+			<foaf:mbox_sha1sum>4004916254d5dd83b00d8109bba8e7b3e6b8b422</foaf:mbox_sha1sum>
+			<foaf:img rdf:resource="http://profile.ak.fbcdn.net/profile6/311/122/s692971325_334.jpg"/>
+			<foaf:holdsAccount>
+				<foaf:OnlineAccount>
+					<foaf:accountServiceHomepage rdf:resource="http://www.facebook.com/" />
+					<foaf:accountName>692971325</foaf:accountName>
+				</foaf:OnlineAccount>
+			</foaf:holdsAccount>
+		<rdfs:seeAlso rdf:resource="http://www.facebook.com/692971325"/></foaf:Person>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:name>Neil Ireson</foaf:name>
+			<foaf:title>Dr</foaf:title>
+			<foaf:givenname>Neil</foaf:givenname>
+			<foaf:family_name>Ireson</foaf:family_name>
+			<foaf:gender>male</foaf:gender>
+			<foaf:mbox_sha1sum>6ddb590576a64376de79ce02136333d9b7f3557d</foaf:mbox_sha1sum>
+			<rdfs:seeAlso rdf:resource="http://www.facebook.com/552298778"/>
+		</foaf:Person>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:name>Fabio Ciravegna</foaf:name>
+			<foaf:title>Professor</foaf:title>
+			<foaf:givenname>Fabio</foaf:givenname>
+			<foaf:family_name>Ciravegna</foaf:family_name>
+			<foaf:gender>male</foaf:gender>
+			<foaf:mbox_sha1sum>1581bc8c10464ef1f4b317119f5706b1fedaf77f</foaf:mbox_sha1sum>
+			<rdfs:seeAlso rdf:resource="http://www.facebook.com/566656797"/>
+		</foaf:Person>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:title>Dr</foaf:title>
+			<foaf:name>Anna Lisa Gentile</foaf:name>
+			<foaf:givenname>Anna Lisa</foaf:givenname>
+			<foaf:family_name>Gentile</foaf:family_name>
+			<foaf:gender>female</foaf:gender>
+			<foaf:mbox_sha1sum>375c571224d2571a38961ee728085ac27d28f094</foaf:mbox_sha1sum>
+			<rdfs:seeAlso rdf:resource="http://www.dcs.shef.ac.uk/~annalisa"/>
+		</foaf:Person>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Person>
+			<foaf:name>Ziqi Zhang</foaf:name>
+			<foaf:title>Dr</foaf:title>
+			<foaf:givenname>Ziqi</foaf:givenname>
+			<foaf:family_name>Zhang</foaf:family_name>
+			<foaf:gender>male</foaf:gender>
+			<foaf:mbox_sha1sum>c43c40fe06b847e5af5f83dbec349edabc6c1562</foaf:mbox_sha1sum>
+			<rdfs:seeAlso rdf:resource="http://www.dcs.shef.ac.uk/~ziqizhang"/>
+		</foaf:Person>
+	</foaf:knows>
+</foaf:Person>
+</rdf:RDF>
