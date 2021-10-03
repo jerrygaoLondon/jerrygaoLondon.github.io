@@ -18,7 +18,7 @@
   <foaf:maker rdf:resource="#me"/>
   <foaf:primaryTopic rdf:resource="#me"/>
   <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
-  <admin:errorReportsTo rdf:resource="mailto:j.gao@sheffield.ac.uk"/>
+  <admin:errorReportsTo rdf:resource="mailto:jiegaouk@gmail"/>
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
 	<foaf:name>Jie Gao</foaf:name>
@@ -27,12 +27,12 @@
 	<foaf:family_name>Gao</foaf:family_name>
 	<foaf:nick>Jerry</foaf:nick>
 	<foaf:mbox_sha1sum>8eeb5e4a5c62dbb5d57a5eb2b1d94f2935a0eb0a</foaf:mbox_sha1sum>
-	<foaf:homepage rdf:resource="http://www.dcs.shef.ac.uk/~jieg"/>
+	<foaf:homepage rdf:resource="https://jerrygaolondon.github.io/"/>
 	<foaf:account rdf:resource="http://twitter.com/jerrygaoDextrys"/>
 	<foaf:depiction rdf:resource="https://lh3.googleusercontent.com/-Upjd8NC8lhs/UU3RvVzENwI/AAAAAAAAAsE/UPRbZuojI9E/w105-h140-p/DSCN0776.JPG"/>
 	<foaf:phone rdf:resource="tel:+44-(0)114-222-1876-"/>
-	<foaf:workplaceHomepage rdf:resource="http://www.dcs.shef.ac.uk/~jieg"/>
-	<foaf:workInfoHomepage rdf:resource="I work as a research assistant in University of Sheffield"/>
+	<foaf:workplaceHomepage rdf:resource="https://www.linkedin.com/in/jie-gao-a8a68631/"/>
+	<foaf:workInfoHomepage rdf:resource="I work as a research engineer in Logically AI"/>
 	<foaf:schoolHomepage rdf:resource="www.sheffield.ac.uk"/>
 	<foaf:knows>
 		<foaf:Person>
@@ -59,7 +59,7 @@
 			<foaf:family_name>Ireson</foaf:family_name>
 			<foaf:gender>male</foaf:gender>
 			<foaf:mbox_sha1sum>6ddb590576a64376de79ce02136333d9b7f3557d</foaf:mbox_sha1sum>
-			<rdfs:seeAlso rdf:resource="http://www.facebook.com/552298778"/>
+			<rdfs:seeAlso rdf:resource="https://www.sheffield.ac.uk/dcs/people/research-staff/neil-ireson"/>
 		</foaf:Person>
 	</foaf:knows>
 	<foaf:knows>
@@ -70,7 +70,7 @@
 			<foaf:family_name>Ciravegna</foaf:family_name>
 			<foaf:gender>male</foaf:gender>
 			<foaf:mbox_sha1sum>1581bc8c10464ef1f4b317119f5706b1fedaf77f</foaf:mbox_sha1sum>
-			<rdfs:seeAlso rdf:resource="http://www.facebook.com/566656797"/>
+			<rdfs:seeAlso rdf:resource="https://www.sheffield.ac.uk/dcs/people/academic/fabio-ciravegna"/>
 		</foaf:Person>
 	</foaf:knows>
 	<foaf:knows>
@@ -81,7 +81,7 @@
 			<foaf:family_name>Gentile</foaf:family_name>
 			<foaf:gender>female</foaf:gender>
 			<foaf:mbox_sha1sum>375c571224d2571a38961ee728085ac27d28f094</foaf:mbox_sha1sum>
-			<rdfs:seeAlso rdf:resource="http://www.dcs.shef.ac.uk/~annalisa"/>
+			<rdfs:seeAlso rdf:resource="https://anligentile.github.io/"/>
 		</foaf:Person>
 	</foaf:knows>
 	<foaf:knows>
